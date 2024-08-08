@@ -2,7 +2,7 @@ let idadeMinima = 7
 let idadeAluno = 18
 let categoriaMinima = 7
 let categoriaMedia = 15
-let categoriaMaxima = 20
+let categoriaMaxima = 90
 let nome = "Evelyn"
 
 if (idadeAluno >= idadeMinima) {
