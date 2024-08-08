@@ -1,4 +1,4 @@
-let quantidadePalmas = 5
+let quantidadePalmas = 9
 let Palmas = ""
 
 console.clear()
