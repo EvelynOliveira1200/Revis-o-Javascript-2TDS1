@@ -23,4 +23,4 @@ Uma banda de música está se apresentando e a plateia está super animada! Voc�
 ## Atividade05 (Revisão **array**)
 ### Algoritmo Hambúrguer Chef - Montando o Hambúrguer Perfeito 
 
-Uma lanchonete modernizou o seu sistema de pedidos! Agora, os clientes montam seus hambúrgueres diretamente no código, sem precisar de interface gráfica. É a sua vez de programar essa experiência inovadora!
+Uma lanchonete modernizou o seu sistema de pedidos! Agora, os clientes montam seus hambúrgueres diretamente no código, sem precisar de interface gráfica. É a sua vez de programar essa experiência inovadora!!
