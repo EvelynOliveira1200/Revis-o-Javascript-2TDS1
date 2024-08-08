@@ -1,4 +1,4 @@
-let ingressos = 20;
+let ingressos = 30;
 let batatas = 0;
 
 for (let i = 1; i <= ingressos; i++) {
