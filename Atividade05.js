@@ -6,7 +6,7 @@ let queijos = ["Cheddar", "Mussarela", "Prato", "Gorgonzola"];
 
 let hamburguer = [];
 
-hamburguer.push(paes[0]);
+hamburguer.push(paes[2]);
 hamburguer.push(molhos[2]);
 hamburguer.push(saladas[1]);
 hamburguer.push(carnes[0]);
